@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sudolabs_cakemod",
+  "name": "SudoLabs Cake Mod",
+  "description": "Let's have fun with cakes!",
+  "version": "0.1",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Tobin and Maz"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
